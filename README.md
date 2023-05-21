@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a software engineer (#Java #SpringBoot #Microservices #Backends #APIs #Testing) locating in Japan 🇯🇵
+
+Nowadays, I believe that most people want to help out each other so with my [blogging](https://medium.com/@truongbui95)
+efforts, I try to share my knowledge, and experiences that I've faced at work or self-learning process 🚀
+
+Hope it is helpful somehow.
+
+Say hi on [LinkedIn](https://www.linkedin.com/in/buingoctruong/) 
+
 <!--
 **buingoctruong/buingoctruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
