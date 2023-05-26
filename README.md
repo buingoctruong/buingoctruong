@@ -3,7 +3,7 @@
 I'm a software engineer (#Java #SpringBoot #Microservices #Backends #APIs #Testing) locating in Japan 🇯🇵
 
 Nowadays, I believe that most people want to help out each other so with my [blogging](https://medium.com/@truongbui95)
-efforts, I try to share my knowledge, and experiences that I've faced at work or self-learning process 🚀
+efforts, I try to share my knowledge, and experiences I've faced at work and self-learning process 🚀
 
 Hope it is helpful somehow.
 
