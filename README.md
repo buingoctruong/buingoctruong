@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-I'm a software engineer (#Java #SpringBoot #Microservices #Backends #APIs #Testing) locating in Japan 🇯🇵
+I'm a software engineer (#Java #SpringBoot #Microservices #Backends #APIs #Testing) based in Japan 🇯🇵
 
-Nowadays, I believe that most people want to help out each other so with my [blogging](https://medium.com/@truongbui95)
-efforts, I try to share my knowledge, and experiences I've faced at work and self-learning process 🚀
+In today’s world, I believe most people want to help out each other. In line with my commitment to [blogging](https://truongbn.com/), I strive to contribute by sharing my professional experiences and the lessons I’ve learned through self-directed learning endeavors. 🚀
 
-Hope it is helpful somehow.
+Hope it’s helpful in some way 😃
 
-Say hi on [LinkedIn](https://www.linkedin.com/in/buingoctruong/) 
+Say hi on ↓↓↓
+
+[LinkedIn](https://www.linkedin.com/in/buingoctruong/)
+
+[Medium](https://medium.com/@truongbui95)
 
 <!--
 **buingoctruong/buingoctruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
