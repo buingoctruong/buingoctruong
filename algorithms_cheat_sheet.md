@@ -89,6 +89,16 @@
 - [ ] Practice [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [ ] Practice [Word Break](https://leetcode.com/problems/word-break/)
 
+## Graph
+- [ ] Practice [Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [ ] Practice [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [ ] Practice [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [ ] Practice [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [ ] Practice [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [ ] Practice [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+- [ ] Practice [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+- [ ] Practice [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+
 ## Interval
 - [ ] Practice [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] Practice [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
