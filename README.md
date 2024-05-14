@@ -2,7 +2,7 @@
 
 I'm a software engineer (#Java #SpringBoot #Microservices #Backends #APIs #Testing) based in Japan 🇯🇵
 
-In today’s world, I believe most people want to help out each other. In line with my commitment to [blogging](https://truongbn.com/), I strive to contribute by sharing my professional experiences and the lessons I’ve learned through self-directed learning endeavors. 🚀
+In today’s world, I believe most people want to help out each other. In line with my commitment to [blogging](https://medium.com/@truongbui95), I strive to contribute by sharing my professional experiences and the lessons I’ve learned through self-directed learning endeavors. 🚀
 
 Hope it’s helpful in some way 😃
 
