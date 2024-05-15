@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a software engineer (#Java #SpringBoot #Microservices #Backends #APIs #Testing) based in Japan 🇯🇵
+I'm a software engineer (all things #Java #SpringBoot #Microservices #Backends #APIs #Testing) based in Japan 🇯🇵
 
-In today’s world, I believe most people want to help out each other. In line with my commitment to [blogging](https://medium.com/@truongbui95), I strive to contribute by sharing my professional experiences and the lessons I’ve learned through self-directed learning endeavors. 🚀
+In today’s world, I believe most people want to help out each other. With my [blogging](https://medium.com/@truongbui95) efforts, I strive to contribute by sharing my professional experiences and the lessons I’ve learned through self-directed learning endeavors. 🚀
 
 Hope it’s helpful in some way 😃
+
+Happy Sharing!
 
 Say hi on ↓↓↓
 
