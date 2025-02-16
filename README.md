@@ -10,9 +10,12 @@ Happy Sharing!
 
 Say hi on ↓↓↓
 
-[LinkedIn](https://www.linkedin.com/in/buingoctruong/)
+- [LinkedIn](https://www.linkedin.com/in/buingoctruong/)
+- [Medium](https://medium.com/@truongbui95)
 
-[Medium](https://medium.com/@truongbui95)
+Check Out My Google Chrome Extension:
+
+- [ZENKAKU HANKAKU Converter](https://chromewebstore.google.com/detail/zenkaku-hankaku-converter/olgeeoaipkkmncidfopkldngijngakkd?authuser=0&hl=en)
 
 <!--
 **buingoctruong/buingoctruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
