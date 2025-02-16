@@ -13,7 +13,7 @@ Say hi on ↓↓↓
 - [LinkedIn](https://www.linkedin.com/in/buingoctruong/)
 - [Medium](https://medium.com/@truongbui95)
 
-Check Out My Google Chrome Extension:
+Check Out What I’ve Built:
 
 - [ZENKAKU HANKAKU Converter](https://chromewebstore.google.com/detail/zenkaku-hankaku-converter/olgeeoaipkkmncidfopkldngijngakkd?authuser=0&hl=en)
 
