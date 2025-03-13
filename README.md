@@ -16,6 +16,7 @@ Say hi on ↓↓↓
 Check out what i’ve built:
 
 - [ZENKAKU HANKAKU Converter](https://chromewebstore.google.com/detail/zenkaku-hankaku-converter/olgeeoaipkkmncidfopkldngijngakkd?authuser=0&hl=en)
+- [Browser Usage Dashboard](https://chrome.google.com/webstore/detail/coajolpcbdilgcnefkhnnalihfpjlcln)
 
 <!--
 **buingoctruong/buingoctruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
