@@ -8,11 +8,6 @@ Hope it’s helpful in some way 😃
 
 Happy Sharing!
 
-Say hi on ↓↓↓
-
-- [LinkedIn](https://www.linkedin.com/in/buingoctruong/)
-- [Medium](https://medium.com/@truongbui95)
-
 Check out what i’ve built:
 
 - [ZENKAKU HANKAKU Converter](https://chromewebstore.google.com/detail/zenkaku-hankaku-converter/olgeeoaipkkmncidfopkldngijngakkd)
