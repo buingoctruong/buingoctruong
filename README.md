@@ -11,7 +11,6 @@ Happy Sharing!
 Check out what i’ve built:
 
 - [ZENKAKU HANKAKU Converter](https://chromewebstore.google.com/detail/zenkaku-hankaku-converter/olgeeoaipkkmncidfopkldngijngakkd)
-- [Browser Usage Dashboard](https://chrome.google.com/webstore/detail/coajolpcbdilgcnefkhnnalihfpjlcln)
 - [Transcripto](https://chromewebstore.google.com/detail/transcripto/dlafapkfpflnbfpnadkbjlakmgegkcff)
 
 <!--
